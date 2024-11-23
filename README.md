@@ -1,2 +1,2 @@
 # gcposter
-AC Groove Coaster グルーヴコースター Display Material URLs
+AC Groove Coaster グルーヴコースター Display Material Download URLs.
